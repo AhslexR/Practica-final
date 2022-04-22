@@ -44,7 +44,6 @@ public class Creditos extends JDialog {
 		JTextArea txtrDesarolladoPor = new JTextArea();
 		txtrDesarolladoPor.setBackground(new Color(255, 153, 51));
 		txtrDesarolladoPor.setEditable(false);
-		//txtrDesarolladoPorLos.setText("                                              Desarollado por GCE\u00AE dev.\r\n                                                            Eduard Cruz\r\n                                                             2020-9358\r\n                                                          Gabriel Cedano\r\n                                                            2020-10783\r\n                                                        Cristhian Taveras\r\n                                                            2020-10541");
 		txtrDesarolladoPor.setText("                                              Desarollado por LIP\u00AE dev.\r\n                                                   Ashly N Diaz Reyes\r\n                                                        2020-10955\r\n                                                          ");
 		txtrDesarolladoPor.setBounds(10, 11, 414, 119);
 		contentPanel.add(txtrDesarolladoPor);
